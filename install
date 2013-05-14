@@ -1,6 +1,7 @@
 #!/bin/bash
 d=`dirname $0`
 
+ln -s $d/.oh-my-zsh ~/.oh-my-zsh
 ln -s $d/zsh/zshrc.zsh-template ~/.zshrc
 ln -s $d/zsh/prose.zsh-theme ~/.oh-my-zsh/themes/prose.zsh-theme
 ln -s $d/vim ~/.vim
