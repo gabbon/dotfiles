@@ -7,4 +7,4 @@ Also contains delimitMate, lint.vim, nerdtree, vim-commentary, vim-endwise, vim-
 
     git clone https://github.com/gabbon/dotfiles.git ~/.dotfiles
     cd ~/.dotfiles && git submodule update --init --recursive
-    sh ./install
+    cd .. && sh ~/.dotfiles/install
