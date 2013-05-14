@@ -1,0 +1,33 @@
+[submodule ".oh-my-zsh"]
+	path = .oh-my-zsh
+	url = https://github.com/robbyrussell/oh-my-zsh.git
+[submodule "vim/bundle/delimitMate"]
+	path = vim/bundle/delimitMate
+	url = https://github.com/Raimondi/delimitMate.git
+[submodule "vim/bundle/lint.vim"]
+	path = vim/bundle/lint.vim
+	url = https://github.com/joestelmach/lint.vim.git
+[submodule "vim/bundle/nerdtree"]
+	path = vim/bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "vim/bundle/vim-commentary"]
+	path = vim/bundle/vim-commentary
+	url = https://github.com/tpope/vim-commentary.git
+[submodule "vim/bundle/vim-endwise"]
+	path = vim/bundle/vim-endwise
+	url = https://github.com/tpope/vim-endwise.git
+[submodule "vim/bundle/vim-javascript"]
+	path = vim/bundle/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "vim/bundle/vim-markdown"]
+	path = vim/bundle/vim-markdown
+	url = https://github.com/tpope/vim-markdown.git
+[submodule "vim/bundle/vim-puppet"]
+	path = vim/bundle/vim-puppet
+	url = https://github.com/rodjek/vim-puppet.git
+[submodule "vim/bundle/vim-ragtag"]
+	path = vim/bundle/vim-ragtag
+	url = https://github.com/tpope/vim-ragtag.git
+[submodule "vim/bundle/vim-surround"]
+	path = vim/bundle/vim-surround
+	url = https://github.com/tpope/vim-surround.git
