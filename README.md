@@ -1,5 +1,5 @@
 # dotfiles #
-Just some stuff I use when I set up camp on a server. Contains git, vim and zsh configs.
+Just some stuff I use when I set up camp on a machine. Contains git, vim and zsh configs.
 
 Also contains delimitMate, lint.vim, nerdtree, vim-commentary, vim-endwise, vim-javascript, vim-markdown, vim-pathogen, vim-puppet, vim-ragtag, vim-surround for Vim.
 
